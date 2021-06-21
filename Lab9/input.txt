@@ -1,0 +1,4 @@
+-1 // initial value of result
+true // player chance flag
+false // monitor chance flag
+10 // number of players
